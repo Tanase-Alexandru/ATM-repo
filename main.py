@@ -64,7 +64,7 @@ def fastdep():
 root = Tk()
 root.title("Tanase Alexandru ATM")
 root.state('zoomed')
-img=PhotoImage(file='C:\\Users\\Bia Dilia\\PycharmProjects\\ATM\\atm-machine.png')
+img=PhotoImage(file='C:\\Users\\PycharmProjects\\ATM\\atm-machine.png')
 root.iconphoto(False,img)
 
 width= root.winfo_screenwidth()
